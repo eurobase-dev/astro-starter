@@ -24,5 +24,6 @@ npm run dev
 ## Learn more
 
 - [Getting started](https://eurobase.dev/docs/getting-started)
+- [Deploy an Astro site: step-by-step guide](https://eurobase.dev/docs/guides/astro)
 - [How Astro runs on Eurobase (Workers)](https://eurobase.dev/docs/workers)
 - [Plans and limits](https://eurobase.dev/docs/plans): the Free plan costs nothing.
